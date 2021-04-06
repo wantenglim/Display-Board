@@ -23,13 +23,13 @@ Description for each line in file:
 ## Input 
 Type in the external filename.
 
-![input]()
+![input](https://github.com/wantenglim/Display-Board/blob/main/Images/Input.png)
 
 s_mr.dat content:
 
-![dat file]()
+![dat file](https://github.com/wantenglim/Display-Board/blob/main/Images/s_mr_content.png)
 
 ## Output
 The board will display a mirrored 'FANTASTIC' font (vertical reflection) by using symbol @
 
-![output]()
+![output](https://github.com/wantenglim/Display-Board/blob/main/Images/Output.png)
